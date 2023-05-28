@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursividade", "Recursividade\Recursividade.csproj", "{B557EAC6-6B5C-41B9-8AA7-666BCE3D16BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitsRecursividade", "UnitsRecursividade\UnitsRecursividade.csproj", "{85883D53-F90F-4AAC-AA86-80700536739C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B557EAC6-6B5C-41B9-8AA7-666BCE3D16BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B557EAC6-6B5C-41B9-8AA7-666BCE3D16BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B557EAC6-6B5C-41B9-8AA7-666BCE3D16BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B557EAC6-6B5C-41B9-8AA7-666BCE3D16BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85883D53-F90F-4AAC-AA86-80700536739C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85883D53-F90F-4AAC-AA86-80700536739C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85883D53-F90F-4AAC-AA86-80700536739C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85883D53-F90F-4AAC-AA86-80700536739C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3E552FC-1DD0-407E-9B38-8846C408CA26}
+	EndGlobalSection
+EndGlobal

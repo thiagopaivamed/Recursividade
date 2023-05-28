@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b557eac6-6b5c-41b9-8aa7-666bce3d16be": {
+      "ProjectGuid": "b557eac6-6b5c-41b9-8aa7-666bce3d16be",
+      "DisplayName": "Recursividade",
+      "ColorIndex": 0
+    },
+    "85883d53-f90f-4aac-aa86-80700536739c": {
+      "ProjectGuid": "85883d53-f90f-4aac-aa86-80700536739c",
+      "DisplayName": "UnitsRecursividade",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
